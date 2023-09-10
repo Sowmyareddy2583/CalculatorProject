@@ -5,19 +5,14 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* box-shadow: 0px 4px 4px 0px #00000040; */
   background-color: #3b4664;
 }
-/* .container{
-    border:3px solid black;
-} */
 input {
   text-align: right;
   height: 60px;
   width: 350px;
   border-radius: 8px;
   padding: 20px;
-  /* box-shadow: 0px 4px 4px 0px #00000040; */
   background-color: #181f32;
   margin-bottom: 20px;
 }
@@ -31,7 +26,6 @@ input {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 15px;
-  /* margin-top: 25px; */
   padding: 30px;
   background-color: #181f32;
   border-radius: 8px;
